@@ -7,9 +7,10 @@ Este projeto tem como objetivo desenvolver um sistema web e mobile para realizar
 ### Funcionalidades Principais
 
 - **Registro de Movimentações Financeiras**:
-  - Cadastro de receitas e despesas.
-  - Escolha da categoria, descrição, quantidade, valor unitário e total.
-  - Registro do fornecedor e upload de comprovantes de compra ou venda.
+  - Cadastro de tipos de receitas e despesas.
+  - Cadastro de fornecedor
+  - Cadastro de um registro de receita ou despesa, com possibilidade de escolha da categoria, fornecedor, descrição, quantidade, valor unitário e total.
+  - Upload de comprovante via foto.
 
 - **Geração de Relatórios**:
   - Relatórios que consolidam despesas, receitas e margens econômicas da atividade pecuária.
